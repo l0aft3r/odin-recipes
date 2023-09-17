@@ -1,7 +1,4 @@
-This project is part of TheOdinProject course
+<i>This project is part of TheOdinProject course</i>
 
 Through this project I showcase what I learned so far
-during this course about <b>HTML</b>.
-
-(It is worth mentioning that I have some experience
-using HTML outside of TheOdinProject)
+during this course about <strong>HTML</strong>.
